@@ -1,4 +1,4 @@
-This project explores sentiment classification of IMDb movie reviews using both traditional machine learning and modern embedding-based approaches.
+This project explores sentiment classification of IMDb movie reviews using both traditional machine learning and modern embedding based approaches.
 
 # Overview
 
